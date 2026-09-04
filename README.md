@@ -1,5 +1,13 @@
 # 🦎 openSUSE Desktop Lab for WSL
 
+Easy way to install OpenSUSE TUMBELWEED. Open Powershell and copy and paste this.
+
+wsl --distribution openSUSE-Tumbleweed --user OpenSUSE
+
+Easy way to install OpenSUSE Leap. Open Powershell and copy and paste this.
+
+wsl --distribution openSUSE-Leap-16.0 --user OpenSUSE_leap
+
 ![openSUSE](https://img.shields.io/badge/openSUSE-Tumbleweed-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
 ![openSUSE Leap](https://img.shields.io/badge/openSUSE-Leap%2016-173F4F?style=for-the-badge&logo=opensuse&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL-2-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
@@ -11,6 +19,8 @@
 The goal is simple: start with a clean openSUSE WSL installation, choose the desktop you want, and turn it into a useful Linux desktop environment without replacing Windows.
 
 ---
+
+
 
 ## ✨ What this project is about
 
