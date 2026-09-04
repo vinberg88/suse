@@ -1,3 +1,3 @@
-# Opensuse Tumbelweed and Opensuse Leap. How to install diffrent desktops via Opensuse and WSL.
+# Opensuse Tumbelweed and Opensuse Leap.
 
 OpenSUSE tumbelweed and Opensuse Leap for wsl - Here you can install diffrent desktops for OpenSUSE via WSL. From gnome to kde for OPENSUSE.
