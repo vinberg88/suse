@@ -97,6 +97,10 @@ Then install the openSUSE edition shown on your system:
 
 ```powershell
 wsl --install openSUSE-Tumbleweed --name OpenSUSE
+
+OR
+
+wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 ```
 
 Example workflow:
