@@ -117,7 +117,7 @@ wsl -l -v
 
 # 🖥️ Desktop environments
 
-## 💎 KDE Plasma
+## 💎 KDE Plasma and OpenSUSE tumbelweed
 
 ![KDE Plasma](https://img.shields.io/badge/KDE-Plasma%206-1D99F3?style=flat-square&logo=kde&logoColor=white)
 ![Recommended](https://img.shields.io/badge/WSL-Recommended-success?style=flat-square)
@@ -130,8 +130,7 @@ KDE Plasma is one of the best desktop choices for an openSUSE WSL workstation. I
 ### Install
 
 ```bash
-sudo zypper refresh
-sudo zypper install patterns-kde-kde_plasma
+[Install kde 6 via OPENSUSE](https://github.com/vinberg88/suse/blob/main/Opensuse-Tumbelweed-KDE6.txt)
 ```
 
 Useful commands after installation:
