@@ -150,6 +150,9 @@ systemctl --failed
 
 KDE Plasma is one of the best desktop choices for an openSUSE WSL workstation. It is highly configurable and works especially well when using an external X server such as X410.
 
+<img width="1920" height="1080" alt="Opensuse-Tumbelweed-KDE6" src="https://github.com/user-attachments/assets/a0bbe717-d4e2-4f6d-a776-5dfe22324a07" />
+
+
 ### Install
 
 ```bash
