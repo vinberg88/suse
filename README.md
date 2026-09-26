@@ -526,6 +526,11 @@ That information can then be turned into a repeatable installer or launcher.
 
 ---
 
+<p align="center">
+  <a href="https://github.com/vinberg88">
+ <img width="723" height="279" alt="down-opensuse" src="https://github.com/user-attachments/assets/602500ca-34a6-4719-9073-93e45d55ef85" />
+</p>
+
 # ⚠️ Disclaimer
 
 This repository contains community experiments for running Linux desktop environments under Windows Subsystem for Linux.
