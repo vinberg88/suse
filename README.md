@@ -96,7 +96,7 @@ wsl --list --online
 Then install the openSUSE edition shown on your system:
 
 ```powershell
-wsl --install -d <DistroName>
+wsl --install openSUSE-Tumbleweed --name OpenSUSE
 ```
 
 Example workflow:
