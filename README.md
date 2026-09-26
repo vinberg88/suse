@@ -9,7 +9,7 @@ Easy way to install OpenSUSE TUMBELWEED. Open Powershell and copy and paste this
 
 wsl --install openSUSE-Tumbleweed --name OpenSUSE
 
-Easy way to install OpenSUSE Leap. Open Powershell and copy and paste this.
+Easy way to install OpenSUSE Leap 16. Open Powershell and copy and paste this.
 
 wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 
@@ -24,8 +24,6 @@ wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 The goal is simple: start with a clean openSUSE WSL installation, choose the desktop you want, and turn it into a useful Linux desktop environment without replacing Windows.
 
 ---
-
-
 
 ## ✨ What this project is about
 
@@ -69,7 +67,7 @@ sudo zypper dup
 
 ### Leap
 
-**Leap** is the more stable openSUSE platform. It is a good choice when you prefer a predictable system and do not need every desktop package on the newest possible version.
+**Leap 16** is the more stable openSUSE platform. It is a good choice when you prefer a predictable system and do not need every desktop package on the newest possible version.
 
 ```bash
 sudo zypper refresh
