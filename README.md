@@ -45,6 +45,11 @@ This project explores how far we can take a normal openSUSE WSL installation wit
 
 ---
 
+<p align="center">
+  <a href="https://github.com/vinberg88">
+ <img width="714" height="214" alt="opensuse-leap" src="https://github.com/user-attachments/assets/db5a5830-f5ea-4101-90c3-57ea5f5c084e" />
+</p>
+
 # 🦎 Choose your openSUSE
 
 | | openSUSE Tumbleweed | openSUSE Leap |
