@@ -139,7 +139,7 @@ Comming SONE..
 
 > **Tip:** KDE Plasma + X410 is one of the main combinations tested in this project.
 
----
+```
 
 ## 🟣 GNOME
 
