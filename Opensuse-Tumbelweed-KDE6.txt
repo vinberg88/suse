@@ -1,7 +1,7 @@
 OpenSUSE TumbelWeed and kde 6 - How to install KDE via Opensuse Tumbelweed - WSL - X410 - Windows 11 - Linux - 2025
 
 How to install KDE 6 via OPENSUSE Tumbelweed - WSL - TEXT via GITHUB
-Comming SONE
+https://github.com/vinberg88/suse/blob/main/Opensuse-Tumbelweed-KDE6.txt
 
 How to install KDE 6 via OPENSUSE Tumbelweed - WSL - MOVIE via YOUTUBE
 Comming SONE
@@ -146,6 +146,27 @@ sudo zypper in gimp
 
 -----------------------------------------------------
 
+             .;ldkO0000Okdl;.
+         .;d00xl:^''''''^:ok00d;.        OS: openSUSE Tumbleweed x86_64 for WSL
+       .d00l'                'o00d.
+     .d0K^'  Okxoc;:,.          ^O0d.    Host: Windows Subsystem for Linux - OpenSUSE (2.9.13.0)
+    .OVVAK0kOKKKKKKKKKKOxo:,      lKO.     
+   ,0VVAKKKKKKKKKKKKK0P^,,,^dx:    ;00,  OS: Windows 11 Pro for Workstations (25H2) x86_64   
+  .OVVAKKKKKKKKKKKKKk'.oOPPb.'0k.   cKO. 
+  :KVAKKKKKKKKKKKKKK: kKx..dd lKd   'OK: Media: Mattias Vinberg - Sweden - STOCKHOLM - 2026  
+  lKlKKKKKKKKKOx0KKKd ^0KKKO' kKKc   lKl    
+  lKlKKKKKKKKKK;.;oOKx,..^..;kKKK0.  lKl Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+  :KAlKKKKKKKKK0o;...^cdxxOK0O/^^'  .0K:
+   kKAVKKKKKKKKKKKK0x;,,......,;od  lKP  Mail: mattiasvinberg@duck.com
+   '0KAVKKKKKKKKKKKKKKKKKK00KKOo^  c00'
+    'kKAVOxddxkOO00000Okxoc;''   .dKV'   Opensuse extra: https://github.com/vinberg88/suse
+      l0Ko.                    .c00l'
+       'l0Kk:.              .;xK0l'      More for WSL: https://github.com/vinberg88
+          'lkK0xc;:,,,,:;odO0kl'
+              '^:ldxkkkkxdl:^'           Old Page for WSL: https://github.com/vinberg88/opensuse
+
+-----------------------------------------------------
+
 Install LibreOffice
 
 sudo zypper in libreoffice
@@ -224,6 +245,30 @@ sudo cat /etc/resolv.conf
 
 DONE - alot of problem fixed =] If you see some RED text dont worry it works any way.
 
+------------------------------------------------------
+          ,...,                                 
+     .,:lloooooc;.                              
+   ,ool'     oo,;oo:
+ .lo'        oo.   oo:    
+.oo.         oo.    oo:  
+:ol          oo.    'oo                         
+:oo         .oo.    .oo.                        OS: openSUSE Tumbleweed x86_64 for WSL
+.oooooooooooooo.    .oo.                        
+ ;oo.               .oo.                        Host: Windows Subsystem for Linux - OpenSUSE (2.9.13.0)
+  'oo,              .oo.                        
+    "ooc,',,,,,,,,,,:ooc,,,,,,,,,,,             OS: Windows 11 Pro for Workstations (25H2) x86_64
+       ':cooooooooooooooooooooooooool;.         
+                    .oo.             .oo;       Media: Mattias Vinberg - Sweden - STOCKHOLM - 2026
+                    .oo.               .oo.     
+                    .oo.    'oooooooooo:ooo.    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+                    .oo.    'oo.         col 
+                    .oo'    'oo          col    Mail: mattiasvinberg@duck.com
+                     coo    'oo          oo' 
+                      coc   'oo        .lo,     Opensuse extra: https://github.com/vinberg88/suse
+                       `oo, 'oo      .:oo
+                         'ooooc,, ,:lol         More for WSL: https://github.com/vinberg88
+                            `''"clc"'
+                                                Old Page for WSL: https://github.com/vinberg88/opensuse
 ------------------------------------------------------
 
 Paste in terminal: 
@@ -315,22 +360,22 @@ Regards Mattias Vinberg - SweDen - OpenSUse TumbelWeeD - WSL - X410 - Windows 11
 ----------------------------------------------------------------------
 
              .;ldkO0000Okdl;.
-         .;d00xl:^''''''^:ok00d;.        OpenSUSE Tumbleweed - STOCKHOLM - 2026
+         .;d00xl:^''''''^:ok00d;.        OS: openSUSE Tumbleweed x86_64 for WSL
        .d00l'                'o00d.
-     .d0K^'  Okxoc;:,.          ^O0d.    Desktop for WSL: KDE 6 PLASMA
+     .d0K^'  Okxoc;:,.          ^O0d.    Host: Windows Subsystem for Linux - OpenSUSE (2.9.13.0)
     .OVVAK0kOKKKKKKKKKKOxo:,      lKO.     
-   ,0VVAKKKKKKKKKKKKK0P^,,,^dx:    ;00,  OS: Windows 11 Pro for Workstations (25H2) x86_64     
-  .OVVAKKKKKKKKKKKKKk'.oOPPb.'0k.   cKO.  
-  :KVAKKKKKKKKKKKKKK: kKx..dd lKd   'OK:   
+   ,0VVAKKKKKKKKKKKKK0P^,,,^dx:    ;00,  OS: Windows 11 Pro for Workstations (25H2) x86_64   
+  .OVVAKKKKKKKKKKKKKk'.oOPPb.'0k.   cKO. 
+  :KVAKKKKKKKKKKKKKK: kKx..dd lKd   'OK: Media: Mattias Vinberg - Sweden - STOCKHOLM - 2026  
   lKlKKKKKKKKKOx0KKKd ^0KKKO' kKKc   lKl    
-  lKlKKKKKKKKKK;.;oOKx,..^..;kKKK0.  lKl
+  lKlKKKKKKKKKK;.;oOKx,..^..;kKKK0.  lKl Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
   :KAlKKKKKKKKK0o;...^cdxxOK0O/^^'  .0K:
-   kKAVKKKKKKKKKKKK0x;,,......,;od  lKP
+   kKAVKKKKKKKKKKKK0x;,,......,;od  lKP  Mail: mattiasvinberg@duck.com
    '0KAVKKKKKKKKKKKKKKKKKK00KKOo^  c00'
-    'kKAVOxddxkOO00000Okxoc;''   .dKV'
+    'kKAVOxddxkOO00000Okxoc;''   .dKV'   Opensuse extra: https://github.com/vinberg88/suse
       l0Ko.                    .c00l'
-       'l0Kk:.              .;xK0l'
+       'l0Kk:.              .;xK0l'      More for WSL: https://github.com/vinberg88
           'lkK0xc;:,,,,:;odO0kl'
-              '^:ldxkkkkxdl:^'
+              '^:ldxkkkkxdl:^'           Old Page for WSL: https://github.com/vinberg88/opensuse
      
 ----------------------------------------------------------------------
