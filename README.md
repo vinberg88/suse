@@ -132,14 +132,8 @@ KDE Plasma is one of the best desktop choices for an openSUSE WSL workstation. I
 
 [Install kde 6 via OPENSUSE](https://github.com/vinberg88/suse/blob/main/Opensuse-Tumbelweed-KDE6.txt)
 
-```
-### X11 / X410 launch idea
-
-export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
-export PULSE_SERVER=unix:/mnt/wslg/PulseServer
-export XDG_SESSION_TYPE=x11
-
-dbus-run-session -- startplasma-x11
+How to install KDE 6 via YouTUBE
+Comming SONE..
 
 ```
 
