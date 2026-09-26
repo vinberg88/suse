@@ -7,11 +7,11 @@
 
 Easy way to install OpenSUSE TUMBELWEED. Open Powershell and copy and paste this.
 
-wsl --install -d openSUSE-Tumbleweed
+wsl --install openSUSE-Tumbleweed --name OpenSUSE
 
 Easy way to install OpenSUSE Leap. Open Powershell and copy and paste this.
 
-wsl --install -d openSUSE-Leap-16.0
+wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 
 ![openSUSE](https://img.shields.io/badge/openSUSE-Tumbleweed-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
 ![openSUSE Leap](https://img.shields.io/badge/openSUSE-Leap%2016-173F4F?style=for-the-badge&logo=opensuse&logoColor=white)
