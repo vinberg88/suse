@@ -81,6 +81,11 @@ sudo zypper update
 
 ---
 
+<p align="center">
+  <a href="https://github.com/vinberg88">
+ <img width="723" height="176" alt="Opensuse-Black" src="https://github.com/user-attachments/assets/7ee595d1-e373-42b7-a08a-01809cf16837" />
+</p>
+
 # 🚀 Install openSUSE in WSL
 
 First make sure WSL itself is installed and updated.
