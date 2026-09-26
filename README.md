@@ -135,11 +135,11 @@ KDE Plasma is one of the best desktop choices for an openSUSE WSL workstation. I
 How to install KDE 6 via YouTUBE
 Comming SONE..
 
-```
+---
 
 > **Tip:** KDE Plasma + X410 is one of the main combinations tested in this project.
 
-```
+---
 
 ## 🟣 GNOME
 
