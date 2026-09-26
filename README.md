@@ -118,8 +118,10 @@ wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 
 KDE Plasma is one of the best desktop choices for an openSUSE WSL workstation. It is highly configurable and works especially well when using an external X server such as X410.
 
+<p align="center">
+  <a href="https://github.com/vinberg88](https://github.com/vinberg88/suse/blob/main/Opensuse-Tumbelweed-KDE6.txt">
 <img width="1920" height="1080" alt="Opensuse-Tumbelweed-KDE6" src="https://github.com/user-attachments/assets/a0bbe717-d4e2-4f6d-a776-5dfe22324a07" />
-
+</p>
 
 ### How to Install KDE 6
 
