@@ -1,4 +1,7 @@
-
+<p align="center">
+  <a href="https://github.com/vinberg88">
+ <img width="800" height="300" alt="opensuse" src="https://github.com/user-attachments/assets/874af5be-29b8-4d7e-b191-ceb6c037afe6" />
+</p>
 
 # 🦎 openSUSE Desktop Lab for WSL
 
