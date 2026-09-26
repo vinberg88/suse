@@ -32,8 +32,7 @@ sudo zypper --non-interactive install \
     xsetroot \
     xrandr \
     xdpyinfo \
-    dbus-1 \
-    dbus-1-x11
+    dbus-1
 
 echo
 echo "[3/4] Installing kde6-x410 launcher..."
