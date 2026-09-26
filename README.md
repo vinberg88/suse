@@ -102,15 +102,6 @@ OR
 
 wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 ```
-
-Example workflow:
-
-```powershell
-wsl --list --online
-wsl --install -d <openSUSE-name-from-the-list>
-wsl -l -v
-```
-
 > The exact WSL distribution name can change between releases. Using `wsl --list --online` avoids hard-coding an old Store name.
 
 ---
