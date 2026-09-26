@@ -120,8 +120,8 @@ KDE Plasma is one of the best desktop choices for an openSUSE WSL workstation. I
 
 ### Install
 
-```bash
 [Install kde 6 via OPENSUSE](https://github.com/vinberg88/suse/blob/main/Opensuse-Tumbelweed-KDE6.txt)
+
 ```
 
 Useful commands after installation:
