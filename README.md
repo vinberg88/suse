@@ -465,9 +465,9 @@ This makes desktop testing much faster.
 
 Planned additions to this repository:
 
-- [ ] KDE Plasma installer for Tumbleweed
+- [*] KDE Plasma installer for Tumbleweed
 - [ ] KDE Plasma installer for Leap
-- [ ] `kde-x410` launcher
+- [*] `kde-x410` launcher
 - [ ] GNOME installer and launcher
 - [ ] Xfce installer and launcher
 - [ ] LXQt installer and launcher
