@@ -115,41 +115,6 @@ wsl -l -v
 
 ---
 
-# ⚙️ Check WSL2 and systemd
-
-Inside openSUSE:
-
-```bash
-cat /etc/os-release
-uname -r
-ps -p 1 -o pid,comm,args
-systemctl is-system-running
-```
-
-A healthy systemd-enabled WSL installation should show `systemd` as PID 1.
-
-If systemd is not enabled, create or edit `/etc/wsl.conf`:
-
-```ini
-[boot]
-systemd=true
-```
-
-Then from PowerShell:
-
-```powershell
-wsl --shutdown
-```
-
-Start openSUSE again and verify:
-
-```bash
-ps -p 1 -o comm=
-systemctl --failed
-```
-
----
-
 # 🖥️ Desktop environments
 
 ## 💎 KDE Plasma
