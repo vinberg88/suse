@@ -125,7 +125,6 @@ KDE Plasma is one of the best desktop choices for an openSUSE WSL workstation. I
 ```
 ### X11 / X410 launch idea
 
-```bash
 export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
 export PULSE_SERVER=unix:/mnt/wslg/PulseServer
 export XDG_SESSION_TYPE=x11
