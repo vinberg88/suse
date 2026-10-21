@@ -133,9 +133,9 @@ Go to sudo yast via terminal and go to onlien update and install all.
 
 Use yast and install all from recommende packages under meny "Dependencies"
 
-YOU NEED TO INSTALL YAST: sudo zypper in yast* and press 2.
+YOU NEED TO INSTALL YAST and press 2: sudo zypper in yast*
 
-Copy and paste in Console for OpenSUSE LEAP 16: sudo yast
+Next paste in Console for OpenSUSE LEAP 16: sudo yast
 
 ----------------------------------------------------------------------
 
