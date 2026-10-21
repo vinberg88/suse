@@ -118,11 +118,21 @@ wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 
 ## 💎 KDE Plasma 6 and OpenSUSE LEAP
 
+![KDE Plasma](https://img.shields.io/badge/KDE-Plasma%206-1D99F3?style=flat-square&logo=kde&logoColor=white)
+![Recommended](https://img.shields.io/badge/WSL-Recommended-success?style=flat-square)
 
+Use KDE software to surf the web, keep in touch with colleagues, friends and family, manage your files, enjoy music and videos; and
+get creative and productive at work. The KDE community develops and maintains more than 200 applications which run on any
+Linux desktop, and often other platforms too.
 
+<p align="center">
+  <a href="https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16-KDE.txt">
+<img width="1920" height="1080" alt="Opensuse-Leap16-KDE" src="https://github.com/user-attachments/assets/01e83701-bf6c-4aaa-9b85-9aeed1de2c1d" />
+</p>
 
+### How to Install KDE 6 - [Install kde 6 via OPENSUSE LEAP](https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16-KDE.txt)
 
-
+How to install KDE 6 via YouTUBE: Comming sone...
 
 ---
 
