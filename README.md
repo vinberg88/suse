@@ -132,7 +132,7 @@ Linux desktop, and often other platforms too.
 
 ### How to Install KDE 6 - [Install kde 6 via OPENSUSE LEAP](https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16-KDE.txt)
 
-How to install KDE 6 via YouTUBE: Comming sone...
+How to install KDE 6 via YouTUBE: https://www.youtube.com/watch?v=ZL03qt7bNrI
 
 ---
 
