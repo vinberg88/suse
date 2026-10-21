@@ -5,7 +5,7 @@ Dowbload OpenSUSE LEAP 16 via GitHUB: https://github.com/vinberg88/suse
 You can find OpenSUSE LEAP 16 via Powershell: wsl --install -d openSUSE-Leap-16.0
 
 How to install KDE via OpenSUSE LEAP 16 - WSL - TEXT VIA GITHUB
-Comming SONE
+https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16-KDE.txt
 
 How to install KDE via OpenSUSE LEAP 16 - WSL - MOVIE VIA YOUTUBE
 Comming SONE
