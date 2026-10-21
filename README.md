@@ -112,9 +112,19 @@ wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 ```
 > The exact WSL distribution name can change between releases. Using `wsl --list --online` avoids hard-coding an old Store name.
 
+# 🖥️ Desktop environments
+
 ---
 
-# 🖥️ Desktop environments
+## 💎 KDE Plasma 6 and OpenSUSE LEAP
+
+
+
+
+
+
+
+---
 
 ## 💎 KDE Plasma and OpenSUSE tumbelweed
 
