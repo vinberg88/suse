@@ -122,7 +122,7 @@ GNOME provides a clean, modern workstation experience and is another interesting
 
 <p align="center">
   <a href="https://github.com/vinberg88">
- <img width="800" height="300" alt="opensuse" src="https://github.com/user-attachments/assets/13f352e2-15f6-4763-8bf7-0ea0ea0700d7" />
+ <img width="1920" height="1080" alt="opensuse" src="https://github.com/user-attachments/assets/13f352e2-15f6-4763-8bf7-0ea0ea0700d7" />
 </p>
 
 Install GNOME via OPENsuse LEAP - https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16-Gnome.txt
