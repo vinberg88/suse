@@ -1,13 +1,13 @@
 OpenSUSE LEAP and GNOME dekstop via WSL and how to install all Windows 11 - x410 - GitHUB - YouTUBE - 2026
 
-
 You can find OpenSUSE LEAP 16 - https://github.com/vinberg88/suse/releases/
 
 Or install via POWERSHELL: wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 
 
 How to install Gnome via OpenSUSE LEAP 16.0 - WSL - TEXT VIA GITHUB
-Comming SONE...
+https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16-Gnome.txt
+
 
 How to install Gnome via OpenSUSE LEAP 16.0 - WSL - MOVIE VIA YOUTUBE
 Comming SONE...
