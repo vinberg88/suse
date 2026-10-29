@@ -116,6 +116,14 @@ wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 
 ---
 
+## 💎 GNOME and OpenSUSE LEAP 16
+
+GNOME provides a clean, modern workstation experience and is another interesting target for WSL desktop experiments.
+
+
+
+---
+
 ## 💎 KDE Plasma 6 and OpenSUSE LEAP
 
 ![KDE Plasma](https://img.shields.io/badge/KDE-Plasma%206-1D99F3?style=flat-square&logo=kde&logoColor=white)
@@ -165,8 +173,6 @@ Comming SONE..
 
 ![GNOME](https://img.shields.io/badge/GNOME-Desktop-4A86CF?style=flat-square&logo=gnome&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-Testing-blue?style=flat-square)
-
-GNOME provides a clean, modern workstation experience and is another interesting target for WSL desktop experiments.
 
 ### Install
 
