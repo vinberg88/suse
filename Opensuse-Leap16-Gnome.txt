@@ -1,0 +1,315 @@
+OpenSUSE LEAP and GNOME dekstop via WSL and how to install all Windows 11 - x410 - GitHUB - YouTUBE - 2026
+
+
+You can find OpenSUSE LEAP 16 - https://github.com/vinberg88/suse/releases/
+
+Or install via POWERSHELL: wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
+
+
+How to install Gnome via OpenSUSE LEAP 16.0 - WSL - TEXT VIA GITHUB
+Comming SONE...
+
+How to install Gnome via OpenSUSE LEAP 16.0 - WSL - MOVIE VIA YOUTUBE
+Comming SONE...
+
+                            
+          ==== 
+         ======             MEDIA - Mattias Vinberg - Stockholm - Sweden - DevOps - 2026
+       ==== ====+   
+     +====    +====         OS: openSUSE Leap 16.0 x86_64
+   +===+        ====        
+  ====            ====      Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
++===               +====    
+====               +====    Host: Windows Subsystem for Linux - openSUSE-Leap-16.0 (3.0.4.0)
+ =====            ====      
+   +===+        =====       OS: Windows 11 Pro for Workstations (26H2) x86_64
+==+  =====    +===+  ===    
+====   ==== =====  =====    Mail: vinberg@duck.com
+  ====  =======   ====      
+    ====  ===   ====        DownLoad Leap 16 HERE - https://github.com/vinberg88/suse/releases/
+     ====+    ====          
+       ==== =====           Desktop: GNOME FOR WSL and OpenSUSE LEAP 16
+         ======             
+           ==               WM: WSLg WSLg: 1.0.79
+
+
+TOOLS that i USE - WSL - Windows 11 - Linux - OpenSUSE LEAP 16.0
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+About OpenSUSE LEAP 16.0 - https://get.opensuse.org/leap/16.0
+
+A brand new way of building openSUSE and a new
+type of a hybrid Linux distribution. Leap uses
+source from SUSE Linux Enterprise (SLE), which
+gives Leap a level of stability unmatched by
+other Linux distributions, and combines that with
+community developments to give users, developers
+and sysadmins the best stable Linux experience
+available. OpenSUSE LEAP is not a Rolling releas.
+
+About Gnome Desktop - https://www.gnome.org
+
+Every part of GNOME has been designed to make it
+simple and easy to use. The Activities Overview is
+a simple way to access all your basic tasks. A press
+of a button is all it takes to view your open
+windows, launch applications, or check if you have new
+messages. Having everything in one convenient place
+means you don’t have to learn your way around
+a maze of different technologies. Every aspect of GNOME
+has been crafted to fit together as a harmonious
+whole, providing a consistent and integrated experience.
+Our attention to detail means a smooth and polished 
+product that lets you do the things you want without 
+getting in the way. GNOME is satisfying to use and
+beautiful to behold.
+
+You Can Find More Stuff here About WSL - X410 - Windows 11 - Linux - 2025
+Desktops for Linux and Descriptions how to build it via WSL.
+
+https://github.com/vinberg88/
+
+ABOUT WSL for WINDOWS.
+
+WSL stands for Windows Subsystem for Linux, a feature of Windows that
+allows users to run a Linux environment directly on their Windows
+machine without needing a separate virtual machine or dual-booting.
+
+----------------------------------------------------------------------
+
+Update OpenSUSE LEAP 16.0 via terminal after install.
+
+sudo zypper ref -b && sudo zypper dup
+
+----------------------------------------------------------------------
+
+Install this programs for OpenSUSE LEAP 16.0
+
+sudo zypper install bash git npm wget curl dialog go opi gdm gnome-terminal yast2 nano
+
+Press 1 if you are asked…
+
+----------------------------------------------------------------------
+          ==== 
+         ======             MEDIA - Mattias Vinberg - Stockholm - Sweden - DevOps - 2026
+       ==== ====+   
+     +====    +====         OS: openSUSE Leap 16.0 x86_64
+   +===+        ====        
+  ====            ====      Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
++===               +====    
+====               +====    Host: Windows Subsystem for Linux - openSUSE-Leap-16.0 (3.0.4.0)
+ =====            ====      
+   +===+        =====       OS: Windows 11 Pro for Workstations (26H2) x86_64
+==+  =====    +===+  ===    
+====   ==== =====  =====    Mail: vinberg@duck.com
+  ====  =======   ====      
+    ====  ===   ====        DownLoad Leap 16 HERE - https://github.com/vinberg88/suse/releases/
+     ====+    ====          
+       ==== =====           Desktop: GNOME FOR WSL and OpenSUSE LEAP 16
+         ======             
+           ==               WM: WSLg WSLg: 1.0.79
+
+----------------------------------------------------------------------
+
+Install all - one by one - OpenSUSE LEAP 16.0
+
+sudo zypper ar -cfp 90 'https://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_$releasever/' packman
+
+sudo zypper dup --from packman --allow-vendor-change
+
+Press A if asked...
+
+opi codecs
+
+----------------------------------------------------------------------
+
+Install this - Extra programs for WSL and OpenSUSE LEAP 16.0
+
+sudo zypper in -t pattern wsl_gui wsl_base wsl_systemd
+
+----------------------------------------------------------------------
+
+Time to install Gnome via Opensuse Leap 16.0
+
+sudo zypper in -t pattern gnome_basic gnome gnome_x11
+
+PRESS 2 IF ASKED TO install start..
+
+----------------------------------------------------------------------
+
+OpenSUSE LEAP 16.0 - Look for autoyast2
+
+Install yast for opensuse: opi yast
+
+Copy and paste in Console: sudo yast
+
+UPDATE ALL - Use yast and install all from recommende packages under meny "Dependencies"
+
+----------------------------------------------------------------------
+
+Install My Favorite Browser. Google-Chrome for OpenSUSE LEAP: opi google-chrome
+
+----------------------------------------------------------------------
+
+Install My Favorite App for OpenSUSE LEAP 16.0 - Listen to sounds.
+
+Copy and paste in Terminal: opi blanket
+
+----------------------------------------------------------------------
+
+OpenSUSE LEAP 16.0 - Install Fastfetch via: opi fastfetch
+
+Test in Console: fastfetch
+
+          ==== 
+         ======             MEDIA - Mattias Vinberg - Stockholm - Sweden - DevOps - 2026
+       ==== ====+   
+     +====    +====         OS: openSUSE Leap 16.0 x86_64
+   +===+        ====        
+  ====            ====      Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
++===               +====    
+====               +====    Host: Windows Subsystem for Linux - openSUSE-Leap-16.0 (3.0.4.0)
+ =====            ====      
+   +===+        =====       OS: Windows 11 Pro for Workstations (26H2) x86_64
+==+  =====    +===+  ===    
+====   ==== =====  =====    Mail: vinberg@duck.com
+  ====  =======   ====      
+    ====  ===   ====        DownLoad Leap 16 HERE - https://github.com/vinberg88/suse/releases/
+     ====+    ====          
+       ==== =====           Desktop: GNOME FOR WSL and OpenSUSE LEAP 16
+         ======             
+           ==               WM: WSLg WSLg: 1.0.79
+
+
+More info about OpenSuse WSLg
+
+Architecture: x86_64
+Built: 2026-06-25T17:27:16
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+(Wayland)
+
+----------------------------------------------------------------------
+
+Install Gimp and Libre Office for OpenSUSE LEAP 16.0
+
+sudo zypper in libreoffice gimp
+
+----------------------------------------------------------------------
+
+Visual Studio Code for OpenSUSE LEAP 16.0
+
+opi code  <-- press 
+
+Press 2 if asked - Done.
+
+----------------------------------------------------------------------
+
+paste in terminal and install one by one. No stress - OpenSUSE LEAP 16.0
+
+xdg-user-dirs-update
+
+sudo systemctl set-default multi-user.target
+
+sudo systemctl set-default graphical.target
+
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+sudo systemctl set-default graphical
+
+----------------------------------------------------------------------
+
+In terminal type: sudo nano ~/.bash_opensuse_desktop
+
+Paste this in terminal and save:
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+----------------------------------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem. Look for ip adress in windows terminal / PowerShell: ipconfig
+
+SAVE IP FROM POWERSHELL HERE: 172.30.16.1
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
+
+GO BACK TO OpenSUSE LEAP 16 AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo zypper install systemd-resolved
+
+sudo ls -l /etc/resolv.conf
+
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+
+sudo systemctl restart systemd-resolved
+
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed =] IF YOU SEE SOME RED TEXT DONT WORRY IT WORKS =]
+
+----------------------------------------------------------------------
+
+Reboot - Reboot - Reboot - Reboot - Reboot - Reboot - Reboot
+
+----------------------------------------------------------------------
+
+Now we can start GNOME via OpenSUSE LEAP 16.
+
+
+NOTE: FIRST START x410 THEN YOU START OpenSUSE LEAP 16 TERMINAL.
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Paste in terminal: . ~/.bash_opensuse_desktop
+
+Type in terminal: gnome-session
+
+
+----------------------------------------------------------------------
+          ==== 
+         ======             MEDIA - Mattias Vinberg - Stockholm - Sweden - DevOps - 2026
+       ==== ====+   
+     +====    +====         OS: openSUSE Leap 16.0 x86_64
+   +===+        ====        
+  ====            ====      Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
++===               +====    
+====               +====    Host: Windows Subsystem for Linux - openSUSE-Leap-16.0 (3.0.4.0)
+ =====            ====      
+   +===+        =====       OS: Windows 11 Pro for Workstations (26H2) x86_64
+==+  =====    +===+  ===    
+====   ==== =====  =====    Mail: vinberg@duck.com
+  ====  =======   ====      
+    ====  ===   ====        DownLoad Leap 16 HERE - https://github.com/vinberg88/suse/releases/
+     ====+    ====          
+       ==== =====           Desktop: GNOME FOR WSL and OpenSUSE LEAP 16
+         ======             
+           ==               WM: WSLg WSLg: 1.0.79
+
+
+Best Regards Mattias Vinberg - OpenSUSE LEAP 16 - WSL - X410 - Windows - Linux - GNOME - 2026
+
+----------------------------------------------------------------------
