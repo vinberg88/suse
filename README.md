@@ -127,7 +127,7 @@ GNOME provides a clean, modern workstation experience and is another interesting
 
 Install GNOME via OPENsuse LEAP - https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16-Gnome.txt
 
-MOVIE FROM YOUTRUBE - Comming SONE
+MOVIE FROM YOUTRUBE - https://www.youtube.com/watch?v=3yVVRkd9PRA
 
 ---
 
