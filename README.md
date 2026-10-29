@@ -120,7 +120,14 @@ wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 
 GNOME provides a clean, modern workstation experience and is another interesting target for WSL desktop experiments.
 
+<p align="center">
+  <a href="https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16-KDE.txt">
+<img width="1920" height="1080" alt="Opensuse-Leap16-Gnome" src="https://github.com/user-attachments/assets/88a57331-9625-4305-bc61-2389247c2bf5" />
+</p>
 
+Install GNOME via OPENsuse LEAP -
+
+MOVIE FROM YOUTRUBE - 
 
 ---
 
