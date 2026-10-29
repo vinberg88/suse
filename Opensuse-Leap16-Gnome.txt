@@ -4,14 +4,11 @@ You can find OpenSUSE LEAP 16 - https://github.com/vinberg88/suse/releases/
 
 Or install via POWERSHELL: wsl --install openSUSE-Leap-16.0 --name OpenSUSE-Leap
 
-
 How to install Gnome via OpenSUSE LEAP 16.0 - WSL - TEXT VIA GITHUB
 https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16-Gnome.txt
 
-
 How to install Gnome via OpenSUSE LEAP 16.0 - WSL - MOVIE VIA YOUTUBE
-Comming SONE...
-
+https://www.youtube.com/watch?v=3yVVRkd9PRA
                             
           ==== 
          ======             MEDIA - Mattias Vinberg - Stockholm - Sweden - DevOps - 2026
