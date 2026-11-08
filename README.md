@@ -149,6 +149,18 @@ Linux desktop, and often other platforms too.
 
 How to install KDE 6 via YouTUBE: https://www.youtube.com/watch?v=ZL03qt7bNrI
 
+### Start KDE in one X410 desktop window
+
+Download [Start-KDE-openSUSE.cmd](Start-KDE-openSUSE.cmd) and [Start-KDE-openSUSE.ps1](Start-KDE-openSUSE.ps1) into the same Windows folder. Double-click the `.cmd` file to switch X410 to Desktop mode and start KDE Plasma. Keep the command window open while using KDE.
+
+The launcher was tested with the WSL distribution named `openSUSE-Leap-16.1`. If your distribution has another name, run the PowerShell script with `-Distro`, for example:
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Start-KDE-openSUSE.ps1 -Distro openSUSE-Leap-16.0
+```
+
+Save work in your current KDE session before starting the launcher: switching X410 modes closes the existing graphical session.
+
 ---
 
 ## 💎 KDE Plasma and OpenSUSE tumbelweed
