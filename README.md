@@ -25,6 +25,33 @@ The goal is simple: start with a clean openSUSE WSL installation, choose the des
 
 ---
 
+NEXT DESKTOP FOR WSL - OpenSUSE LEAP 16.1 - COMMIG SONE and KDE 6 for WSL.
+
+You can find OpenSUSE LEAP 16.1 via Powershell: wsl --install -d openSUSE-Leap-16.1 or download here.
+
+About OpenSUSE LEAP 16.1 - https://get.opensuse.org/leap/16.1/
+
+A brand new way of building openSUSE with a longer lifecycle. LEAP 16.1.0 builds on its hybrid approach of combining source from
+SUSE Linux Enterprise (SLE) with community developments, delivering a level of stability unmatched by other Linux distributions.
+With a newly extended support period of 24 months, Leap gives users, developers, and sysadmins one of the best and most reliable Linux 
+experiences available.
+
+<p align="center">
+  <a href="https://github.com/vinberg88">
+<img width="1920" height="1080" alt="OpenSuse-LEAP-16 1-KDE" src="https://github.com/user-attachments/assets/fc3a83af-6189-49eb-bc96-2476892f296c" />
+</p>
+
+About KDE plasma - https://kde.org
+
+openSUSE comes in two versions. Leap, a stable distribution with regular releases, comes with LTS
+versions of Linux, Qt and Plasma. Tumbleweed, a rolling distribution with the latest versions of
+all packages. The next generation desktop for Linux. Use KDE software to surf the web, keep in touch with
+colleagues, friends and family, manage your files, enjoy music and videos; and get creative and productive at
+work. The KDE community develops and maintains more than 200 applications which run on any Linux desktop, and
+often other platforms too.
+
+---
+
 ## ✨ What this project is about
 
 WSL is normally used from a terminal, but it can do much more.
