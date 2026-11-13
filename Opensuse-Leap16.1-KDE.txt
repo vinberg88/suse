@@ -5,7 +5,7 @@ Dowbload OpenSUSE LEAP 16.1 via GitHUB: https://github.com/vinberg88/suse
 You can find OpenSUSE LEAP 16.1 via Powershell: wsl --install -d openSUSE-Leap-16.1
 
 How to install KDE 6 via OpenSUSE LEAP 16.1 - WSL - TEXT VIA GITHUB
-Comming SONE.
+https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16.1-KDE.txt
 
 How to install KDE 6 via OpenSUSE LEAP 16.1 - WSL - MOVIE VIA YOUTUBE
 https://www.youtube.com/watch?v=I_rYPSV36TI
