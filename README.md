@@ -25,9 +25,13 @@ The goal is simple: start with a clean openSUSE WSL installation, choose the des
 
 ---
 
-NEXT DESKTOP FOR WSL - OpenSUSE LEAP 16.1 - COMMIG SONE and KDE 6 for WSL.
+OpenSUSE LEAP 16.1 and KDE 6 for WSL.
 
-You can find OpenSUSE LEAP 16.1 via Powershell: wsl --install -d openSUSE-Leap-16.1 or download here.
+Install KDE 6 via OpenLeap 16.1 - https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16.1-KDE.txt
+
+Movie via YouTUBE - Install KDE 6 via Opensuse LEAP 16.1 - https://www.youtube.com/watch?v=I_rYPSV36TI
+
+You can find OpenSUSE LEAP 16.1 via Powershell: wsl --install -d openSUSE-Leap-16.1
 
 About OpenSUSE LEAP 16.1 - https://get.opensuse.org/leap/16.1/
 
@@ -37,7 +41,7 @@ With a newly extended support period of 24 months, Leap gives users, developers,
 experiences available.
 
 <p align="center">
-  <a href="https://github.com/vinberg88">
+  <a href="https://github.com/vinberg88/suse/blob/main/Opensuse-Leap16.1-KDE.txt">
 <img width="1920" height="1080" alt="OpenSuse-LEAP-16 1-KDE" src="https://github.com/user-attachments/assets/fc3a83af-6189-49eb-bc96-2476892f296c" />
 </p>
 
