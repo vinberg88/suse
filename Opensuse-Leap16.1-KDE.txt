@@ -1,0 +1,294 @@
+OpenSUSE LEAP 16.1 and KDE 6 - WSL - How to install KDE 6 via OpenSUSE - WSL - X410 - Windows 11 - Linux - 2026
+
+Dowbload OpenSUSE LEAP 16.1 via GitHUB: https://github.com/vinberg88/suse
+
+You can find OpenSUSE LEAP 16.1 via Powershell: wsl --install -d openSUSE-Leap-16.1
+
+How to install KDE 6 via OpenSUSE LEAP 16.1 - WSL - TEXT VIA GITHUB
+Comming SONE.
+
+How to install KDE 6 via OpenSUSE LEAP 16.1 - WSL - MOVIE VIA YOUTUBE
+https://www.youtube.com/watch?v=I_rYPSV36TI
+
+Tools that i use for WSL and OpenSUSE LEAP 16.1 - 2026 - KDE 6
+
+Raft WSL - Handel WSL image easy and Linux for WSL for windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+          ==== 
+         ======             OS: OpenSUSE LEAP 16.1 x86_64
+       ==== ====+   
+     +====    +====         Host: Windows Subsystem for Linux - openSUSE-Leap-16.0 (3.0.5.0)
+   +===+        ====
+  ====            ====      Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
++===               +====    
+====               +====    MEDIA - Mattias Vinberg - Stockholm - Sweden - 2026
+ =====            ====      
+   +===+        =====       Email: vinberg@duck.com
+==+  =====    +===+  ===    
+====   ==== =====  =====    Find more here: https://github.com/vinberg88
+  ====  =======   ====      
+    ====  ===   ====        Desktop: KDE 6 and OpenSUSE LEAP 16.1
+     ====+    ====          
+       ==== =====           OS: Windows 11 Pro for Workstations (26H2) x86_64
+         ======             
+           ==               Download OpenSUSE LEAP HERE - https://github.com/vinberg88/suse
+
+About OpenSUSE LEAP 16.1 - https://get.opensuse.org/leap/16.1/
+
+A brand new way of building openSUSE with a longer lifecycle.
+LEAP 16.1.0 builds on its hybrid approach of combining source from
+SUSE Linux Enterprise (SLE) with community developments, delivering
+a level of stability unmatched by other Linux distributions.
+With a newly extended support period of 24 months, Leap gives
+users, developers, and sysadmins one of the best and most
+reliable Linux experiences available.
+
+About KDE plasma - https://kde.org
+
+openSUSE comes in two versions. Leap, a stable
+distribution with regular releases, comes with LTS
+versions of Linux, Qt and Plasma. Tumbleweed, a
+rolling distribution with the latest versions of
+all packages. The next generation desktop for Linux.
+Use KDE software to surf the web, keep in touch with
+colleagues, friends and family, manage your files, enjoy
+music and videos; and get creative and productive at
+work. The KDE community develops and maintains more
+than 200 applications which run on any Linux
+desktop, and often other platforms too.
+
+Find WSL desktop for Windows By LINUX - https://github.com/vinberg88
+
+--------------------------------------------
+
+LETS START INSTALL OF KDE 6 VIA OpenSUSE LEAP 16.1 FOR WSL - 2026
+
+--------------------------------------------
+
+Update OpenSUSE LEAP 16.1 via terminal.
+
+sudo zypper refresh && sudo zypper update
+
+----------------------------------------------------------------------
+
+Install this programs for OpenSUSE LEAP 16.1 - 2026 - KDE 6
+
+sudo zypper install bash git npm wget curl nano dialog go opi sddm gnome-terminal yast2
+
+----------------------------------------------------------------------
+
+Install all - one by one - OpenSUSE LEAP 16.1 Packman.
+
+sudo zypper ar -cfp 90 'https://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_$releasever/' packman
+
+sudo zypper dup --from packman --allow-vendor-change
+
+opi codecs
+
+----------------------------------------------------------------------
+
+Install this - Extra programs for WSL - OpenSUSE LEAP 16.1
+
+sudo zypper in -t pattern wsl_gui wsl_base wsl_systemd
+
+----------------------------------------------------------------------
+
+Time to install KDE plasma 6 via OpenSUSE LEAP 16.1
+
+sudo zypper install -t pattern kde kde_plasma 
+
+---------------------------------------------------------------------- 
+
+          ==== 
+         ======             OS: OpenSUSE LEAP 16.1 x86_64
+       ==== ====+   
+     +====    +====         Host: Windows Subsystem for Linux - openSUSE-Leap-16.0 (3.0.5.0)
+   +===+        ====
+  ====            ====      Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
++===               +====    
+====               +====    MEDIA - Mattias Vinberg - Stockholm - Sweden - 2026
+ =====            ====      
+   +===+        =====       Email: vinberg@duck.com
+==+  =====    +===+  ===    
+====   ==== =====  =====    Find more here: https://github.com/vinberg88
+  ====  =======   ====      
+    ====  ===   ====        Desktop: KDE 6 and OpenSUSE LEAP 16.1
+     ====+    ====          
+       ==== =====           OS: Windows 11 Pro for Workstations (26H2) x86_64
+         ======             
+           ==               Download OpenSUSE LEAP HERE - https://github.com/vinberg88/suse
+
+
+----------------------------------------------------------------------
+
+Install xorg and sddm via zypper
+
+sudo zypper in xorg* sddm*
+
+----------------------------------------------------------------------
+
+Install My Favorite Browser - Google-Chrome: opi google-chrome
+
+----------------------------------------------------------------------
+
+Install My Favorite App =] Blanket listen to sounds.
+
+Copy and paste in Terminal: sudo zypper in blanket
+
+----------------------------------------------------------------------
+
+Install Fastfetch via: sudo zypper in fastfetch
+
+Test in Console: fastfetch
+
+          ==== 
+         ======             OS: openSUSE LEAP 16.1.0 x86_64
+       ==== ====+   
+     +====    +====         Host: Windows Subsystem for Linux - openSUSE-Leap-16.0 (3.0.4.0)
+   +===+        ====
+  ====            ====      Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
++===               +====    
+====               +====    MEDIA - Mattias Vinberg - Stockholm - Sweden - 2026
+ =====            ====      
+   +===+        =====       Email: vinberg@duck.com
+==+  =====    +===+  ===    
+====   ==== =====  =====    Find more here: https://github.com/vinberg88
+  ====  =======   ====      
+    ====  ===   ====        Desktop: KDE 6 and OpenSUSE LEAP 16.1
+     ====+    ====          
+       ==== =====           OS: Windows 11 Pro for Workstations (26H2) x86_64
+         ======             
+           ==               Download OpenSUSE LEAP HERE - https://github.com/vinberg88/suse
+
+Architecture: x86_64 - Wayland
+Built: 2026-06-25T17:27:16Z
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+----------------------------------------------------------------------
+
+Install Gimp
+
+sudo zypper in gimp
+
+----------------------------------------------------------------------
+
+Install LibreOffice
+
+sudo zypper in libreoffice
+
+Press 2 and enter.
+
+----------------------------------------------------------------------
+
+Paste in terminal and install one by one. No stress - OpenSUSE LEAP 16.1
+
+xdg-user-dirs-update
+
+sudo systemctl set-default multi-user.target
+
+sudo systemctl set-default graphical.target
+
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+----------------------------------------------------------------------
+
+In terminal type via OpenSUSE LEAP 16.1: sudo nano ~/.bash_opensuse_desktop
+
+Paste this in terminal and save:
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+------------------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem.
+
+OPEN POWERSHELL AND TYPE: ipconfig
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
+
+SAVE IP HERE FROM POWERSHELL: 172.18.64.1
+
+GO BACK TO OpenSUSE LEAP 16.1 AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo zypper install dbus-1-daemon
+
+sudo zypper in systemd-resolved
+
+sudo ls -l /etc/resolv.conf
+
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+
+sudo nano /etc/resolv.conf
+
+nameserver 172.18.64.1  <-- put your ip here from powershell and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+
+sudo systemctl restart systemd-resolved
+
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed =] For Opensuse LEAP 16.1 and WSL.
+
+------------------------------------------------------
+
+Reboot - Reboot - Reboot - Reboot - Reboot - Reboot - Reboot - OPENSUSE LEAP 16.1
+
+------------------------------------------------------
+
+Now install start script for OpenSUSE LEAP 16.1 and start X410 xServer for wsl. 
+
+Download Start-KDE-openSUSE.cmd and Start-KDE-openSUSE.ps1 into the same Windows folder. 
+Double-click the .cmd file to switch X410 to Desktop mode and start KDE Plasma. Keep the
+command window open while using KDE.
+
+https://github.com/vinberg88/suse/blob/main/Start-KDE-openSUSE.cmd
+https://github.com/vinberg88/suse/blob/main/Start-KDE-openSUSE.ps1
+
+Click on this file and openSUSE leap 16.1 will start - thats all =)
+
+
+JUST WAIT IT TAKE SOME TIME FOR KDE TO START VIA OPENsuse LEAP 16.1
+
+----------------------------------------------------------------------
+
+          ==== 
+         ======             OS: openSUSE LEAP 16.1 x86_64
+       ==== ====+   
+     +====    +====         Host: Windows Subsystem for Linux - openSUSE-Leap-16.0 (3.0.4.0)
+   +===+        ====
+  ====            ====      Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
++===               +====    
+====               +====    MEDIA - Mattias Vinberg - Stockholm - Sweden - 2026
+ =====            ====      
+   +===+        =====       Email: vinberg@duck.com
+==+  =====    +===+  ===    
+====   ==== =====  =====    Find more here: https://github.com/vinberg88
+  ====  =======   ====      
+    ====  ===   ====        Desktop: KDE 6 and OpenSUSE LEAP 16.1
+     ====+    ====          
+       ==== =====           OS: Windows 11 Pro for Workstations (26H2) x86_64
+         ======             
+           ==               Download OpenSUSE LEAP HERE - https://github.com/vinberg88/suse
+
+
+Regards Mattias Vinberg - SweDen - OpenSUSE LEAP 16.1 - WSL - X410 - Windows 11 - Linux - KDE 6 - 2026
+
+----------------------------------------------------------------------
